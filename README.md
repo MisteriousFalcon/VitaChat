@@ -58,7 +58,7 @@ Open an [issue](../../issues). Ideas are welcome.
 
 ## Support
 
-VitaChat is free. If you enjoy it, a coffee keeps the project alive: [ko-fi.com/misterious_falcon](https://ko-fi.com/misterious_falcon)
+VitaChat is free. If you enjoy it, a bottle of wine keeps the project alive: [ko-fi.com/misterious_falcon](https://ko-fi.com/misterious_falcon)
 
 ## License
 
