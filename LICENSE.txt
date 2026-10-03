@@ -1,0 +1,19 @@
+VitaChat - Freeware License
+
+Copyright (c) 2026 Misterious Falcon. All rights reserved.
+
+You may download, install and use VitaChat free of charge, for personal use.
+
+You may not:
+- sell VitaChat or charge for it in any form;
+- modify, decompile or reverse engineer it, or distribute modified versions;
+- redistribute it outside of the official download page
+  (https://github.com/MisteriousFalcon/VitaChat) without permission.
+
+VitaChat includes open-source components that remain under their own licenses
+(see THIRD_PARTY_NOTICES.md, OFL-Inter.txt and LICENSE-DejaVu.txt).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE. You are responsible for your
+own API keys and any costs charged by the AI service providers you use.
